@@ -9,8 +9,10 @@ Designed as a foundational exercise, this project aims to build core skills for 
 **Project Obejectives**
 
 1.Manage a DevOps project using Git best practices.
+
 2.Implement branching strategies for efficient collaboration.
 3.Use pull requests for code reviews and merging.
 4.Document all tasks and processes in Markdown.
+
 5.Demonstrate versioning with Git tags.
 
